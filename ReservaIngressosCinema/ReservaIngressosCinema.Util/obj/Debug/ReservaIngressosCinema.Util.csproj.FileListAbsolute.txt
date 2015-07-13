@@ -1,0 +1,5 @@
+C:\Projects\testes-tdd-reservaIngressosCinema\testes-tdd-reservaIngressosCinema\ReservaIngressosCinema\ReservaIngressosCinema.Util\bin\Debug\ReservaIngressosCinema.Util.dll
+C:\Projects\testes-tdd-reservaIngressosCinema\testes-tdd-reservaIngressosCinema\ReservaIngressosCinema\ReservaIngressosCinema.Util\bin\Debug\ReservaIngressosCinema.Util.pdb
+C:\Projects\testes-tdd-reservaIngressosCinema\testes-tdd-reservaIngressosCinema\ReservaIngressosCinema\ReservaIngressosCinema.Util\obj\Debug\ReservaIngressosCinema.Util.csprojResolveAssemblyReference.cache
+C:\Projects\testes-tdd-reservaIngressosCinema\testes-tdd-reservaIngressosCinema\ReservaIngressosCinema\ReservaIngressosCinema.Util\obj\Debug\ReservaIngressosCinema.Util.dll
+C:\Projects\testes-tdd-reservaIngressosCinema\testes-tdd-reservaIngressosCinema\ReservaIngressosCinema\ReservaIngressosCinema.Util\obj\Debug\ReservaIngressosCinema.Util.pdb

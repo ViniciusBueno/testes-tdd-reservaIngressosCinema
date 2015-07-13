@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservaIngressosCinema.UI", "ReservaIngressosCinema.UI\ReservaIngressosCinema.UI.csproj", "{E7F75D12-5C93-4907-9355-0F682C6BDA53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservaIngressosCinema.Models", "ReservaIngressosCinema.Models\ReservaIngressosCinema.Models.csproj", "{642E624C-371F-4E75-ADFF-2F17257B4A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservaIngressosCinema.Services", "ReservaIngressosCinema.Services\ReservaIngressosCinema.Services.csproj", "{64B286F3-E31C-4233-981B-03FF781D05C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservaIngressosCinema.Repositories", "ReservaIngressosCinema.Repositories\ReservaIngressosCinema.Repositories.csproj", "{D6B8E0BB-0120-443D-B9CE-F6E48B69C0F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservaIngressosCinema.Util", "ReservaIngressosCinema.Util\ReservaIngressosCinema.Util.csproj", "{DBF58846-342C-4CC4-94CE-BA64754C7325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservaIngressosCinema.Test", "ReservaIngressosCinema.Test\ReservaIngressosCinema.Test.csproj", "{802727FF-8AC6-49B5-9302-34E242A41703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservaIngressosCinema.Resources", "ReservaIngressosCinema.Resources\ReservaIngressosCinema.Resources.csproj", "{8DAF90AA-624D-43C1-B794-13CB53F6BF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F75D12-5C93-4907-9355-0F682C6BDA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F75D12-5C93-4907-9355-0F682C6BDA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F75D12-5C93-4907-9355-0F682C6BDA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F75D12-5C93-4907-9355-0F682C6BDA53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642E624C-371F-4E75-ADFF-2F17257B4A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642E624C-371F-4E75-ADFF-2F17257B4A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642E624C-371F-4E75-ADFF-2F17257B4A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642E624C-371F-4E75-ADFF-2F17257B4A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B286F3-E31C-4233-981B-03FF781D05C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B286F3-E31C-4233-981B-03FF781D05C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B286F3-E31C-4233-981B-03FF781D05C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B286F3-E31C-4233-981B-03FF781D05C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B8E0BB-0120-443D-B9CE-F6E48B69C0F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B8E0BB-0120-443D-B9CE-F6E48B69C0F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B8E0BB-0120-443D-B9CE-F6E48B69C0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B8E0BB-0120-443D-B9CE-F6E48B69C0F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF58846-342C-4CC4-94CE-BA64754C7325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF58846-342C-4CC4-94CE-BA64754C7325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF58846-342C-4CC4-94CE-BA64754C7325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF58846-342C-4CC4-94CE-BA64754C7325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802727FF-8AC6-49B5-9302-34E242A41703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802727FF-8AC6-49B5-9302-34E242A41703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802727FF-8AC6-49B5-9302-34E242A41703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802727FF-8AC6-49B5-9302-34E242A41703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DAF90AA-624D-43C1-B794-13CB53F6BF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAF90AA-624D-43C1-B794-13CB53F6BF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAF90AA-624D-43C1-B794-13CB53F6BF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAF90AA-624D-43C1-B794-13CB53F6BF03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
