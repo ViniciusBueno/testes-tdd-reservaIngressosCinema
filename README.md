@@ -5,6 +5,7 @@ Projeto de estudo para utilizar TDD.
 - Este projeto está sendo desenvolvido em ASP.NET MVC, C#, MSTest e Moq usando o Visual Studio 2013.
 - As funcionalidades do banco não serão desenvolvidas.
 - Apenas as funcionalidades que envolvam regras de negócio significativas serão implementadas, conforme listadas no item a baixo.
+- Na pasta "testes-tdd-reservaIngressosCinema\testes-tdd-reservaIngressosCinema\Documentacao" estão documentos para uma visão geral do projeto.
 
 # Funcionalidades implementadas
 - Ao incluir usuário sem perfil, incluir com o perfil cliente.
