@@ -3,11 +3,13 @@ using ReservaIngressosCinema.Repositories.Interfaces;
 
 namespace ReservaIngressosCinema.Repositories
 {
-    public class UsuarioRepository : IUsuarioRepository
+    public class SalaRepository : ISalaRepository
     {
-        public void Incluir(UsuarioModel usuarioModel)
+        public SalaModel Buscar(SalaModel salaModel)
         {
-            // Executa a inclusão no banco.
+            // Busca no banco.
+
+            return new SalaModel();
         }
     }
 }

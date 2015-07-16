@@ -39,7 +39,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseModel.cs" />
     <Compile Include="HorarioModel.cs" />
+    <Compile Include="ReservaModel.cs" />
+    <Compile Include="SalaModel.cs" />
     <Compile Include="UsuarioModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

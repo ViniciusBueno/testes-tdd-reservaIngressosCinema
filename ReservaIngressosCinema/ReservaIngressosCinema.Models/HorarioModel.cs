@@ -2,10 +2,8 @@
 
 namespace ReservaIngressosCinema.Models
 {
-    public class HorarioModel
+    public class HorarioModel : BaseModel
     {
-        public int? Id { get; set; }
-
         public DateTime HoraInicio { get; set; }
 
         public DateTime HoraTermino { get; set; }

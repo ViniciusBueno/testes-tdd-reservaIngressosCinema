@@ -54,11 +54,11 @@ namespace ReservaIngressosCinema.Test
         }
 
         /// <summary>
-        /// Inclusão de usuário sem Nome.
+        /// Inclusão de usuário sem nome.
         /// 
-        /// Para que usuários sejam incluídos com sucesso.
+        /// Caso um usuário seja incluído sem nome.
         /// Como um usuário.
-        /// Eu quero que o usuário possua um Nome.
+        /// Eu quero que exiba uma mensagem de validação e o suuário não sejá incluído.
         /// </summary>
         [TestMethod]
         public void Testa_Se_Ao_Incluir_Usuario_Sem_Nome_Exibe_Mensagem_De_Validacao()

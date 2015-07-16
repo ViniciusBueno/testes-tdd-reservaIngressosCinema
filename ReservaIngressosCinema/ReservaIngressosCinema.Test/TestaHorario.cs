@@ -50,9 +50,9 @@ namespace ReservaIngressosCinema.Test
         /// <summary>
         /// Inclusão de sala que já está cadastrada no mesmo horário.
         /// 
-        /// Para que usuários sejam incluídos sem perfil.
+        /// Caso um horário seja incluído e a sala já tenha sido incluída no mesmo horário.
         /// Como um atendente.
-        /// Eu quero que o usuário seja incluído com o perfil Cliente.
+        /// Eu quero que seja exibida uma mensagem de validação e a inclusão não seja feita.
         /// </summary>
         [TestMethod]
         public void Testa_Se_Ao_Incluir_Uma_Sala_Que_Ja_Esta_Cadastrada_No_Mesmo_Horario_Exibe_Mensagem_De_Validacao()

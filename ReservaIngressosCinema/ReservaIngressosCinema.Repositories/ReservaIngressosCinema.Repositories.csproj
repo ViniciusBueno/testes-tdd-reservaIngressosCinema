@@ -39,8 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SalaRepository.cs" />
+    <Compile Include="Interfaces\ISalaRepository.cs" />
     <Compile Include="Interfaces\IHorarioRepository.cs" />
     <Compile Include="HorarioRepository.cs" />
+    <Compile Include="Interfaces\IReservaRepository.cs" />
+    <Compile Include="ReservaRepository.cs" />
     <Compile Include="UsuarioRepository.cs" />
     <Compile Include="Interfaces\IUsuarioRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -39,8 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SalaService.cs" />
     <Compile Include="Interfaces\IHorarioService.cs" />
     <Compile Include="HorarioService.cs" />
+    <Compile Include="Interfaces\IReservaService.cs" />
+    <Compile Include="Interfaces\ISalaService.cs" />
+    <Compile Include="ReservaService.cs" />
     <Compile Include="UsuarioService.cs" />
     <Compile Include="Interfaces\IUsuarioService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
