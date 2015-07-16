@@ -1,6 +1,5 @@
 ﻿using ReservaIngressosCinema.Models;
 using ReservaIngressosCinema.Repositories.Interfaces;
-using System;
 using System.Collections.Generic;
 
 namespace ReservaIngressosCinema.Repositories

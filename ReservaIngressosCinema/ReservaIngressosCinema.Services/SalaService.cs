@@ -12,6 +12,7 @@ namespace ReservaIngressosCinema.Services
         {
             salaRepository = repository;
         }
+
         public SalaModel Buscar(SalaModel salaModel)
         {
             return salaRepository.Buscar(salaModel);

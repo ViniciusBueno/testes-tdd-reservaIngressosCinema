@@ -6,6 +6,7 @@ namespace ReservaIngressosCinema.Repositories.Interfaces
     public interface IReservaRepository
     {
         void Incluir(ReservaModel reservaModel);
+
         List<ReservaModel> ListarComObjetosFilhos(ReservaModel reservaModel);
     }
 }

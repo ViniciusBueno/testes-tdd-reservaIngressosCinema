@@ -75,7 +75,7 @@ namespace ReservaIngressosCinema.Test
                 var usuarioService = new UsuarioService(mock.Object);
                 usuarioService.Incluir(usuarioModel);
 
-                Assert.Fail("Expected exception was not thrown.");
+                Assert.Fail("O usuário não deveria ser incluído, pois falto o campo Nome.");
             }
             catch (ReservaIngressosCinemaException ex)
             {

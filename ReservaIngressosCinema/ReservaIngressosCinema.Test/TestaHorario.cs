@@ -77,7 +77,7 @@ namespace ReservaIngressosCinema.Test
                 var horarioService = new HorarioService(mock.Object);
                 horarioService.Incluir(horarioModel);
 
-                Assert.Fail("Expected exception was not thrown.");
+                Assert.Fail("A sala não deveria ser incluída nesse horáro, pois ela já tem reserva neste mesmo horário.");
             }
             catch (ReservaIngressosCinemaException ex)
             {
