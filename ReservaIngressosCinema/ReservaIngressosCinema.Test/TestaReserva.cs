@@ -42,6 +42,7 @@ namespace ReservaIngressosCinema.Test
                 QuantidadeLugares = 5,
                 Nome = "Sala 01",
                 Descricao = "Sala para exibições 3D."
+
             };
 
             var horarioModel = new HorarioModel { Id = 1, IdSala = 1, IdFilme = 3 };
