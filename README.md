@@ -11,4 +11,4 @@ Projeto de estudo para utilizar TDD.
 - Ao incluir usuário sem perfil, incluir com o perfil cliente.
 - Ao incluir um usuário sem um campo obrigatório, no caso o campo nome, validar e não incluir.
 - Ao incluir um horário de uma sala que já possui este mesmo horário cadastrado, validar e não incluir.
-- Ao reservar ingressos para uma sala já lotada, validar e não reservar. (Implementando)
+- Ao reservar ingressos para uma sala já lotada, validar e não reservar.
